@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.parallaxone{
+    width: 100%;
+    height: 600px;
+    background-image:url(IMG3.PNG);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallaxone h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 230px;
+    height: 45px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.parallaxtwo{
+    width: 100%;
+    height: 600px;
+    background-image:url(2012.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallaxtwo h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 230px;
+    height: 25px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.para{
+    
+    height: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-size: 20px;
+}
+.parallaxthree{
+    width: 100%;
+    height: 600px;
+    background-image:url(img4.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.parallaxthree h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 40px;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.createdby{
+    width: 200%;
+    height: 600px;
+    background-image:url(img2.png);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.createdby h3{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 60px;
+    padding: 45px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
